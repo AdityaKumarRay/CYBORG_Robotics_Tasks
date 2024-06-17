@@ -18,10 +18,14 @@ The final output/drawing should resemble the appearance of a 8.
 
 The expected output for Task 1A is given below 👇 :
 
+![task1](https://github.com/AdityaKumarRay/CYBORG_Robotics_Tasks/assets/124429029/f34a5adf-ec86-49a9-9c27-2eb78eba793d)
+
 ### Bonus Task 1A
 This is the follow on task of Task-1 which uses two turtles. (Hint : Checkout the services.)
 
 The expected output for Bonus Task 1A is given below 👇 :
+
+![bonus](https://github.com/AdityaKumarRay/CYBORG_Robotics_Tasks/assets/124429029/b42e560f-3b0d-4436-b085-7de5969e6d3b)
 
 ### Task 1B
 Again Using the turtlesim turtle Implement a goal algorithm using p controller and go to the goals to the following coordinates:
