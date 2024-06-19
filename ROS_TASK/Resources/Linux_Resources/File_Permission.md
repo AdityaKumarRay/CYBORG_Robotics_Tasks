@@ -46,7 +46,7 @@ Linux File Permissions
 </ol>
 </li>
 <li>
-<p>Linux File Permissions is a vast topic but you need not have to master it to succeed in this eYRC Theme. The only thing you need to keep in mind that unlike Windows were programs with <code>.exe</code> extension can be executed, in UNIX/Linux, files with <strong>execute</strong> permission can only be executed/run by the user.</p>
+<p>Linux File Permissions is a vast topic but you need not have to master it. The only thing you need to keep in mind that unlike Windows were programs with <code>.exe</code> extension can be executed, in UNIX/Linux, files with <strong>execute</strong> permission can only be executed/run by the user.</p>
 </li>
 <li>
 <p>To make a file executable in Linux following command can be used,</p>

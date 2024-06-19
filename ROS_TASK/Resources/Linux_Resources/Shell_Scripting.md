@@ -7,7 +7,7 @@ Shell Scripting
 <p>You have learned in the previous section that UNIX shells can take commands from a file also. Such files are called <strong>shell scripts</strong>.</p>
 </li>
 <li>
-<p>In this section we will explore how to write your own shell scripts. We will discuss only those things which will be required to successfully complete upcoming eYRC Tasks. </p>
+<p>In this section we will explore how to write your own shell scripts.</p>
 </li>
 </ul>
 <h2 id="shebang-unix"><a class="header" href="#shebang-unix">Shebang (UNIX)</a></h2>

@@ -10,7 +10,7 @@ Linux File System Directories
 <p>Each directory contains set of files and programs which are required for the proper functioning of the OS.</p>
 </li>
 <li>
-<p>Out of all the directories, <code>/home/</code> and <code>/opt/</code> are two important directories for this eYRC Theme.</p>
+<p>Out of all the directories, <code>/home/</code> and <code>/opt/</code> are two important directories.</p>
 </li>
 <li>
 <p><code>/opt/</code> is the directory or folder where the packages or software which you are going to install using package manager (<code>apt-get</code> in Ubuntu) is going to reside.</p>
