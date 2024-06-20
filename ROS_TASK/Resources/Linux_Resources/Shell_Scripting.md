@@ -39,10 +39,16 @@ Shell Scripting
 </ul>
 </br>
 <hr />
+<p><strong>Two Examples related to shell scripting is attached below:</strong></p>
+<ol>
+<li><a href="./Shell_scripting_example.html">Example #1: Hello Shell Scripting</a></li>
+<li><a href="./shell_scripting_example2.html">Example #2: Open Webpages</a></li>
+</ol>
+<hr />
 
 <h1 align="left">
 <a href="File_Command.md">⬅️</a>
 </h1>
 <h1 align="right">
-<a href="../Workspace.md">➡️</a>
+<a href="Shell_Scripting/Example_1.md">➡️</a>
 </h1>
