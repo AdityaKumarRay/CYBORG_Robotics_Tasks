@@ -12,10 +12,10 @@ Linux Resources
 </ul>
 <h2 id="more-detailed-resources-do-refer-"><a class="header" href="#more-detailed-resources-do-refer-">More Detailed Resources (<strong>Do Refer !</strong>):</a></h2>
 <ol>
-<li><a href="linux_file_system_directories.html">Linux File System Directories</a></li>
-<li><a href="linux_file_permissions.html">Linux File Permissions</a></li>
-<li><a href="linux_file_commands.html">Linux Commands</a></li>
-<li><a href="shell_scripting.html">Shell Scripting</a></li>
+<li><a href="Linux_Resources/File_System.md">Linux File System Directories</a></li>
+<li><a href="Linux_Resources/File_Permission.md">Linux File Permissions</a></li>
+<li><a href="Linux_Resources/File_Command.md">Linux Commands</a></li>
+<li><a href="Linux_Resources/Shell_Scripting.md">Shell Scripting</a></li>
 </ol>
 <h3 id="there-are-many-flavours-of-linux-os-like"><a class="header" href="#there-are-many-flavours-of-linux-os-like">There are many flavours of Linux OS like,</a></h3>
 <ul>
