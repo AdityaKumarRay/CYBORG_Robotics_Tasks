@@ -4,7 +4,7 @@ Robotics Simulation Overview
 </br>
 <p>This section is just to give you a quick overview of the simulation and visualization tools in ROS. </p>
 <blockquote>
-<p><strong>NOTE:</strong> This is only to give <strong>quick overview</strong> of what these terms are. There is a lot to explore and learn in each of the following sub-titles, and we strongly recommend you explore these further as you will perform the tasks.</p>
+<p><strong>NOTE:</strong> This is only to give <strong>quick overview</strong> of what these terms are. There is a lot to explore and learn in each of the following sub-titles, and we strongly recommend you explore these further.</p>
 </blockquote>
 <h2 id="rviz"><a class="header" href="#rviz">RViz</a></h2>
 <ul>

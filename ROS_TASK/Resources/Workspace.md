@@ -46,7 +46,7 @@ cd ~/ros2_ws
 </code></pre>
 </br>
 <blockquote>
-<p><em><strong>NOTE: Till here is what you need for TASK 0 to get started. Further if you want to explore more on ROS workspace, happy learning...</strong></em></p>
+<p><em><strong>NOTE: Further if you want to explore more on ROS workspace, happy learning...</strong></em></p>
 </blockquote>
 <hr />
 <h3 id="add-some-sources"><a class="header" href="#add-some-sources">Add some sources</a></h3>

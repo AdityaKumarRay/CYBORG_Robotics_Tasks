@@ -2,15 +2,13 @@
 Learning Resources
 </h1>
 </br>
-<p>In this theme as well as other projects that one would do in the domain of Robotics, one will use ROS and Python Programming. Therefore it's a good idea to spend some time learning and familiarizing yourself with the aforementioned.</p>
+<p>The projects that one would do in the domain of Robotics, one will use ROS and Python Programming. Therefore it's a good idea to spend some time learning and familiarizing yourself with the aforementioned.</p>
 <p>If you are not convinced of the awesomeness of ROS, here is a video worth watching!</p>
 <p><em><strong><a href="https://www.youtube.com/embed/Dm7HnQb8n9Y">Bloomberg - Building a Robot Operating System for the Future (YouTube Link!)</a></strong></em></p>
 <blockquote>
 <p><em><strong>Important Note</strong></em>: </p>
 <ul>
-<li><em><strong>NOT all of the resources is needed for Task 0.</strong></em></li>
-<li><em><strong>These are resources for ROS 2 as a whole and not specifically for this theme or task.</strong></em></li>
-<li>So feel free to scan and read only what is needed for the Task <em><strong>OR</strong></em> you could familiarise yourself with the complete resources for <em>ROS 2</em> right away so you'll be better equipped for future tasks and other projects you may want to work on, in the future.</li>
+<li>You could familiarise yourself with the complete resources for <em>ROS 2</em> right away so you'll be better equipped for the projects you may want to work on, in the future.</li>
 <li>Alternatively you could also refer to <a href="https://docs.ros.org/en/humble/Tutorials.html"><em>ROS 2 Humble Documentation</em></a> directly to learn <em>ROS 2</em></li>
 </ul>
 </blockquote>
