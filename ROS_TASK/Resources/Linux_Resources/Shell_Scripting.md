@@ -41,8 +41,8 @@ Shell Scripting
 <hr />
 <p><strong>Two Examples related to shell scripting is attached below:</strong></p>
 <ol>
-<li><a href="./Shell_scripting_example.html">Example #1: Hello Shell Scripting</a></li>
-<li><a href="./shell_scripting_example2.html">Example #2: Open Webpages</a></li>
+<li><a href="Shell_Scripting/Example_1.md">Example #1: Hello Shell Scripting</a></li>
+<li><a href="Shell_Scripting/Example_2.md"">Example #2: Open Webpages</a></li>
 </ol>
 <hr />
 
